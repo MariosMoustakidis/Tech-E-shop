@@ -260,7 +260,7 @@ in about-us.html*/
 /*make the font white and adjusts the size and position of the blocks inside
 the block of about-us-section in about-us.html*/
 .sectionContentTwoEl {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     width: 30%;
     color: white;
@@ -324,6 +324,10 @@ be visible due to the background*/
 
 #categories a{
     color: inherit;
+}
+
+#pushDown {
+    margin-bottom: 3%;
 }
 
 
